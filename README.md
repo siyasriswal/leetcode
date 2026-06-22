@@ -30,4 +30,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/siyasriswal/leetcode/tree/master/0207-course-schedule) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/siyasriswal/leetcode/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/siyasriswal/leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
