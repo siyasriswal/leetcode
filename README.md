@@ -38,4 +38,8 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/siyasriswal/leetcode/tree/master/0371-sum-of-two-integers) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/siyasriswal/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
