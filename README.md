@@ -17,10 +17,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/siyasriswal/leetcode/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/siyasriswal/leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
 ## Graph Theory
@@ -46,6 +48,7 @@
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
 ## Dynamic Programming
 |  |
@@ -54,5 +57,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
