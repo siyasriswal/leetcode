@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/siyasriswal/leetcode/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -42,4 +43,16 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/siyasriswal/leetcode/tree/master/0182-duplicate-emails) |
+## Array
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
