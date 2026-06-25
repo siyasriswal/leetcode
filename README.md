@@ -19,12 +19,14 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/siyasriswal/leetcode/tree/master/0207-course-schedule) |
+| [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/siyasriswal/leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,8 +62,10 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
