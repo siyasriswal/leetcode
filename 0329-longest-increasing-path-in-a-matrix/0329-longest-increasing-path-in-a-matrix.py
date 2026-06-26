@@ -3,7 +3,6 @@ class Solution:
         m, n = len(matrix), len(matrix[0])
         indegree = [[0] * n for _ in range(m)]
         dirs = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-        
         for i in range(m):
             for j in range(n):
                 for dx, dy in dirs:
