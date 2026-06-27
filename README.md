@@ -26,6 +26,7 @@
 | [0200-number-of-islands](https://github.com/siyasriswal/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/siyasriswal/leetcode/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0785-is-graph-bipartite](https://github.com/siyasriswal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -37,12 +38,14 @@
 | [0207-course-schedule](https://github.com/siyasriswal/leetcode/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
+| [0785-is-graph-bipartite](https://github.com/siyasriswal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/siyasriswal/leetcode/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0785-is-graph-bipartite](https://github.com/siyasriswal/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -87,6 +90,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siyasriswal/leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/siyasriswal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
 ## Memoization
 |  |
