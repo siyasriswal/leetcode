@@ -76,6 +76,7 @@
 | [0200-number-of-islands](https://github.com/siyasriswal/leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/siyasriswal/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/siyasriswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/siyasriswal/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/siyasriswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/siyasriswal/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
