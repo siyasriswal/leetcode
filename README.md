@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/siyasriswal/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/siyasriswal/leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/siyasriswal/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/siyasriswal/leetcode/tree/master/0127-word-ladder) |
 | [1189-maximum-number-of-balloons](https://github.com/siyasriswal/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -143,4 +144,5 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siyasriswal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/siyasriswal/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
