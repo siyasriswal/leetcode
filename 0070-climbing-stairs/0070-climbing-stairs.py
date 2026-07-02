@@ -1,11 +1,12 @@
+from functools import cache
+
 class Solution:
     def climbStairs(self, n: int) -> int:
-        dp = [-1] * (n + 1)
-        def f(n,dp):
-            if n<=1:
+
+        @cache
+        def f(n):
+            if n <= 1:
                 return 1
-            if dp[n]!=-1:
-                return dp[n]
-            dp[n]= f(n-1,dp)+f(n-2,dp)
-            return dp[n]
-        return f(n, dp)
+            return f(n-1) + f(n-2)
+
+        return f(n)
