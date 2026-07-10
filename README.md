@@ -89,6 +89,7 @@
 | [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/siyasriswal/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/siyasriswal/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/siyasriswal/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/siyasriswal/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1288-remove-covered-intervals](https://github.com/siyasriswal/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -194,5 +195,6 @@
 ## Greedy
 |  |
 | ------- |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/siyasriswal/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/siyasriswal/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
