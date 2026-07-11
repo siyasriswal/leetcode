@@ -90,6 +90,7 @@
 | [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/siyasriswal/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/siyasriswal/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/siyasriswal/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/siyasriswal/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/siyasriswal/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/siyasriswal/leetcode/tree/master/0162-find-peak-element) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/siyasriswal/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/siyasriswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
