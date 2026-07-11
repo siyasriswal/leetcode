@@ -16,6 +16,7 @@
 | [0125-valid-palindrome](https://github.com/siyasriswal/leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/siyasriswal/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/siyasriswal/leetcode/tree/master/0127-word-ladder) |
+| [0459-repeated-substring-pattern](https://github.com/siyasriswal/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/siyasriswal/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2785-sort-vowels-in-a-string](https://github.com/siyasriswal/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting
@@ -203,4 +204,8 @@
 | ------- |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/siyasriswal/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/siyasriswal/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/siyasriswal/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
