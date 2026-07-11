@@ -17,6 +17,7 @@
 | [0126-word-ladder-ii](https://github.com/siyasriswal/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/siyasriswal/leetcode/tree/master/0127-word-ladder) |
 | [1189-maximum-number-of-balloons](https://github.com/siyasriswal/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2785-sort-vowels-in-a-string](https://github.com/siyasriswal/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/siyasriswal/leetcode/tree/master/1288-remove-covered-intervals) |
+| [2785-sort-vowels-in-a-string](https://github.com/siyasriswal/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
 | ------- |
