@@ -90,6 +90,7 @@
 | [0162-find-peak-element](https://github.com/siyasriswal/leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/siyasriswal/leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0502-ipo](https://github.com/siyasriswal/leetcode/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/siyasriswal/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/siyasriswal/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -164,6 +165,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/siyasriswal/leetcode/tree/master/0502-ipo) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/siyasriswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siyasriswal/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
@@ -200,11 +202,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0502-ipo](https://github.com/siyasriswal/leetcode/tree/master/0502-ipo) |
 | [1288-remove-covered-intervals](https://github.com/siyasriswal/leetcode/tree/master/1288-remove-covered-intervals) |
 | [2785-sort-vowels-in-a-string](https://github.com/siyasriswal/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/siyasriswal/leetcode/tree/master/0502-ipo) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/siyasriswal/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/siyasriswal/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## String Matching
