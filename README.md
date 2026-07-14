@@ -103,6 +103,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/siyasriswal/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1288-remove-covered-intervals](https://github.com/siyasriswal/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/siyasriswal/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/siyasriswal/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/siyasriswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siyasriswal/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/siyasriswal/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
