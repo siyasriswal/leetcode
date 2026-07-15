@@ -37,6 +37,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0785-is-graph-bipartite](https://github.com/siyasriswal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/siyasriswal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/siyasriswal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/siyasriswal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/siyasriswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siyasriswal/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -60,6 +62,7 @@
 | [0210-course-schedule-ii](https://github.com/siyasriswal/leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0785-is-graph-bipartite](https://github.com/siyasriswal/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/siyasriswal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siyasriswal/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
@@ -138,6 +141,7 @@
 | [0200-number-of-islands](https://github.com/siyasriswal/leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/siyasriswal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/siyasriswal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/siyasriswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Memoization
 |  |
