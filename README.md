@@ -62,6 +62,7 @@
 | [0210-course-schedule-ii](https://github.com/siyasriswal/leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0785-is-graph-bipartite](https://github.com/siyasriswal/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1791-find-center-of-star-graph](https://github.com/siyasriswal/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/siyasriswal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siyasriswal/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
