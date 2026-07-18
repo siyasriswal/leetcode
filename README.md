@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/siyasriswal/leetcode/tree/master/0036-valid-sudoku) |
 | [0126-word-ladder-ii](https://github.com/siyasriswal/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/siyasriswal/leetcode/tree/master/0127-word-ladder) |
 | [0496-next-greater-element-i](https://github.com/siyasriswal/leetcode/tree/master/0496-next-greater-element-i) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siyasriswal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siyasriswal/leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/siyasriswal/leetcode/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/siyasriswal/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/siyasriswal/leetcode/tree/master/0198-house-robber) |
@@ -129,6 +131,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/siyasriswal/leetcode/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siyasriswal/leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
