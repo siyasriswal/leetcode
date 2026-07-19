@@ -96,6 +96,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siyasriswal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siyasriswal/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/siyasriswal/leetcode/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/siyasriswal/leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/siyasriswal/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/siyasriswal/leetcode/tree/master/0198-house-robber) |
@@ -122,6 +123,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/siyasriswal/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/siyasriswal/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/siyasriswal/leetcode/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/siyasriswal/leetcode/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/siyasriswal/leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/siyasriswal/leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
