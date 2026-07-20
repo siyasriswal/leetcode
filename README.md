@@ -87,6 +87,7 @@
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/siyasriswal/leetcode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/siyasriswal/leetcode/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/siyasriswal/leetcode/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/siyasriswal/leetcode/tree/master/0620-not-boring-movies) |
