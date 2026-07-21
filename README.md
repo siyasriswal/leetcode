@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/siyasriswal/leetcode/tree/master/0036-valid-sudoku) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/siyasriswal/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/siyasriswal/leetcode/tree/master/0127-word-ladder) |
 | [0496-next-greater-element-i](https://github.com/siyasriswal/leetcode/tree/master/0496-next-greater-element-i) |
@@ -98,6 +99,7 @@
 | [0027-remove-element](https://github.com/siyasriswal/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/siyasriswal/leetcode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/siyasriswal/leetcode/tree/master/0064-minimum-path-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/siyasriswal/leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/siyasriswal/leetcode/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/siyasriswal/leetcode/tree/master/0162-find-peak-element) |
@@ -166,6 +168,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/siyasriswal/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -224,11 +227,13 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Concurrency
 |  |
 | ------- |
