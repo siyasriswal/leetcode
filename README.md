@@ -38,6 +38,7 @@
 | [0207-course-schedule](https://github.com/siyasriswal/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/siyasriswal/leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/siyasriswal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/siyasriswal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -54,6 +55,7 @@
 | [0210-course-schedule-ii](https://github.com/siyasriswal/leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/siyasriswal/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/siyasriswal/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -231,6 +233,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -238,6 +241,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Concurrency
 |  |
 | ------- |
