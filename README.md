@@ -97,6 +97,7 @@
 | [0371-sum-of-two-integers](https://github.com/siyasriswal/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0972-equal-rational-numbers](https://github.com/siyasriswal/leetcode/tree/master/0972-equal-rational-numbers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/siyasriswal/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2235-add-two-integers](https://github.com/siyasriswal/leetcode/tree/master/2235-add-two-integers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/siyasriswal/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/siyasriswal/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
