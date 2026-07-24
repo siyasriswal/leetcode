@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/siyasriswal/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siyasriswal/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/siyasriswal/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/siyasriswal/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/siyasriswal/leetcode/tree/master/1929-concatenation-of-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siyasriswal/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/siyasriswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siyasriswal/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/siyasriswal/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -287,6 +289,7 @@
 | ------- |
 | [0502-ipo](https://github.com/siyasriswal/leetcode/tree/master/0502-ipo) |
 | [1288-remove-covered-intervals](https://github.com/siyasriswal/leetcode/tree/master/1288-remove-covered-intervals) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siyasriswal/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2785-sort-vowels-in-a-string](https://github.com/siyasriswal/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/siyasriswal/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
