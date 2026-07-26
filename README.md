@@ -226,6 +226,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/siyasriswal/leetcode/tree/master/0162-find-peak-element) |
+| [0374-guess-number-higher-or-lower](https://github.com/siyasriswal/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siyasriswal/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1044-longest-duplicate-substring](https://github.com/siyasriswal/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/siyasriswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -339,4 +340,8 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/siyasriswal/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/siyasriswal/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
