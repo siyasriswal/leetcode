@@ -131,6 +131,7 @@
 | [0200-number-of-islands](https://github.com/siyasriswal/leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/siyasriswal/leetcode/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0414-third-maximum-number](https://github.com/siyasriswal/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siyasriswal/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/siyasriswal/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/siyasriswal/leetcode/tree/master/0496-next-greater-element-i) |
@@ -295,6 +296,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/siyasriswal/leetcode/tree/master/0414-third-maximum-number) |
 | [0502-ipo](https://github.com/siyasriswal/leetcode/tree/master/0502-ipo) |
 | [1288-remove-covered-intervals](https://github.com/siyasriswal/leetcode/tree/master/1288-remove-covered-intervals) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siyasriswal/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
