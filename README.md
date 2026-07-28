@@ -27,6 +27,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/siyasriswal/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/siyasriswal/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2785-sort-vowels-in-a-string](https://github.com/siyasriswal/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/siyasriswal/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -301,6 +302,7 @@
 | [1288-remove-covered-intervals](https://github.com/siyasriswal/leetcode/tree/master/1288-remove-covered-intervals) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siyasriswal/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2785-sort-vowels-in-a-string](https://github.com/siyasriswal/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/siyasriswal/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/siyasriswal/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/siyasriswal/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -346,4 +348,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/siyasriswal/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/siyasriswal/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
