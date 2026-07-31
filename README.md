@@ -153,6 +153,7 @@
 | [1288-remove-covered-intervals](https://github.com/siyasriswal/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/siyasriswal/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/siyasriswal/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/siyasriswal/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/siyasriswal/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/siyasriswal/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/siyasriswal/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
