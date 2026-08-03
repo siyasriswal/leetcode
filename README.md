@@ -160,6 +160,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/siyasriswal/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/siyasriswal/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/siyasriswal/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/siyasriswal/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/siyasriswal/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/siyasriswal/leetcode/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/siyasriswal/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -313,6 +314,7 @@
 | [0502-ipo](https://github.com/siyasriswal/leetcode/tree/master/0502-ipo) |
 | [1288-remove-covered-intervals](https://github.com/siyasriswal/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1710-maximum-units-on-a-truck](https://github.com/siyasriswal/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/siyasriswal/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siyasriswal/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2785-sort-vowels-in-a-string](https://github.com/siyasriswal/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/siyasriswal/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -326,6 +328,7 @@
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/siyasriswal/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/siyasriswal/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1710-maximum-units-on-a-truck](https://github.com/siyasriswal/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/siyasriswal/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## String Matching
 |  |
 | ------- |
@@ -366,5 +369,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/siyasriswal/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/siyasriswal/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
