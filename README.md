@@ -165,6 +165,7 @@
 | [1929-concatenation-of-array](https://github.com/siyasriswal/leetcode/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/siyasriswal/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siyasriswal/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/siyasriswal/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/siyasriswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siyasriswal/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/siyasriswal/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -316,6 +317,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/siyasriswal/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/siyasriswal/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siyasriswal/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/siyasriswal/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2785-sort-vowels-in-a-string](https://github.com/siyasriswal/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/siyasriswal/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/siyasriswal/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -329,6 +331,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/siyasriswal/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1710-maximum-units-on-a-truck](https://github.com/siyasriswal/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/siyasriswal/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/siyasriswal/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## String Matching
 |  |
 | ------- |
