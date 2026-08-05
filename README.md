@@ -122,6 +122,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/siyasriswal/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siyasriswal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siyasriswal/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/siyasriswal/leetcode/tree/master/0036-valid-sudoku) |
@@ -259,6 +260,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/siyasriswal/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siyasriswal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siyasriswal/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/siyasriswal/leetcode/tree/master/0125-valid-palindrome) |
@@ -310,6 +312,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/siyasriswal/leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/siyasriswal/leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/siyasriswal/leetcode/tree/master/0414-third-maximum-number) |
 | [0502-ipo](https://github.com/siyasriswal/leetcode/tree/master/0502-ipo) |
