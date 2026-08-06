@@ -127,6 +127,7 @@
 | [0027-remove-element](https://github.com/siyasriswal/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/siyasriswal/leetcode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/siyasriswal/leetcode/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/siyasriswal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/siyasriswal/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siyasriswal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -263,6 +264,7 @@
 | [0015-3sum](https://github.com/siyasriswal/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siyasriswal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siyasriswal/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/siyasriswal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/siyasriswal/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/siyasriswal/leetcode/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/siyasriswal/leetcode/tree/master/1089-duplicate-zeros) |
@@ -313,6 +315,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/siyasriswal/leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/siyasriswal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/siyasriswal/leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/siyasriswal/leetcode/tree/master/0414-third-maximum-number) |
 | [0502-ipo](https://github.com/siyasriswal/leetcode/tree/master/0502-ipo) |
