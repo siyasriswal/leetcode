@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/siyasriswal/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/siyasriswal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/siyasriswal/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0371-sum-of-two-integers](https://github.com/siyasriswal/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0972-equal-rational-numbers](https://github.com/siyasriswal/leetcode/tree/master/0972-equal-rational-numbers) |
@@ -184,6 +185,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/siyasriswal/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/siyasriswal/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/siyasriswal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/siyasriswal/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siyasriswal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siyasriswal/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -294,6 +296,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/siyasriswal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/siyasriswal/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -308,6 +311,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/siyasriswal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/siyasriswal/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -405,4 +409,8 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/siyasriswal/leetcode/tree/master/1140-stone-game-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/siyasriswal/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
