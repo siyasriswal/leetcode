@@ -175,6 +175,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/siyasriswal/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/siyasriswal/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/siyasriswal/leetcode/tree/master/1929-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/siyasriswal/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/siyasriswal/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siyasriswal/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/siyasriswal/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -299,6 +300,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/siyasriswal/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/siyasriswal/leetcode/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/siyasriswal/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
@@ -385,6 +387,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/siyasriswal/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/siyasriswal/leetcode/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/siyasriswal/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
