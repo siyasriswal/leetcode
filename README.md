@@ -193,6 +193,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/siyasriswal/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siyasriswal/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/siyasriswal/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3904-smallest-stable-index-ii](https://github.com/siyasriswal/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [1140-stone-game-ii](https://github.com/siyasriswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/siyasriswal/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/siyasriswal/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/siyasriswal/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
 |  |
 | ------- |
