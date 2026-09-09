@@ -24,6 +24,7 @@
 | [0126-word-ladder-ii](https://github.com/siyasriswal/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/siyasriswal/leetcode/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/siyasriswal/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0257-binary-tree-paths](https://github.com/siyasriswal/leetcode/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/siyasriswal/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0972-equal-rational-numbers](https://github.com/siyasriswal/leetcode/tree/master/0972-equal-rational-numbers) |
 | [1044-longest-duplicate-substring](https://github.com/siyasriswal/leetcode/tree/master/1044-longest-duplicate-substring) |
@@ -54,6 +55,7 @@
 | [0207-course-schedule](https://github.com/siyasriswal/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/siyasriswal/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/siyasriswal/leetcode/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/siyasriswal/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/siyasriswal/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siyasriswal/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -269,6 +271,7 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/siyasriswal/leetcode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/siyasriswal/leetcode/tree/master/0126-word-ladder-ii) |
+| [0257-binary-tree-paths](https://github.com/siyasriswal/leetcode/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/siyasriswal/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
@@ -327,6 +330,7 @@
 | [0112-path-sum](https://github.com/siyasriswal/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/siyasriswal/leetcode/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/siyasriswal/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/siyasriswal/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siyasriswal/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/siyasriswal/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -344,6 +348,7 @@
 | [0112-path-sum](https://github.com/siyasriswal/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/siyasriswal/leetcode/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/siyasriswal/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/siyasriswal/leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/siyasriswal/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siyasriswal/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/siyasriswal/leetcode/tree/master/0572-subtree-of-another-tree) |
