@@ -32,6 +32,7 @@
 | [1927-sum-game](https://github.com/siyasriswal/leetcode/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/siyasriswal/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/siyasriswal/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/siyasriswal/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/siyasriswal/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/siyasriswal/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/siyasriswal/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
