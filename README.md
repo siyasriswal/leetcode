@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siyasriswal/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/siyasriswal/leetcode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/siyasriswal/leetcode/tree/master/0126-word-ladder-ii) |
@@ -142,6 +143,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siyasriswal/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/siyasriswal/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siyasriswal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siyasriswal/leetcode/tree/master/0027-remove-element) |
