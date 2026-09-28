@@ -27,6 +27,7 @@
 | [0127-word-ladder](https://github.com/siyasriswal/leetcode/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/siyasriswal/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/siyasriswal/leetcode/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/siyasriswal/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/siyasriswal/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0972-equal-rational-numbers](https://github.com/siyasriswal/leetcode/tree/master/0972-equal-rational-numbers) |
 | [1044-longest-duplicate-substring](https://github.com/siyasriswal/leetcode/tree/master/1044-longest-duplicate-substring) |
@@ -313,6 +314,7 @@
 | [0088-merge-sorted-array](https://github.com/siyasriswal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/siyasriswal/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/siyasriswal/leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/siyasriswal/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1089-duplicate-zeros](https://github.com/siyasriswal/leetcode/tree/master/1089-duplicate-zeros) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/siyasriswal/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Shortest Path
