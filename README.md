@@ -203,6 +203,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/siyasriswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siyasriswal/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siyasriswal/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3364-minimum-positive-sum-subarray](https://github.com/siyasriswal/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/siyasriswal/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/siyasriswal/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/siyasriswal/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -274,6 +275,7 @@
 | [0523-continuous-subarray-sum](https://github.com/siyasriswal/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/siyasriswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/siyasriswal/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/siyasriswal/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/siyasriswal/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/siyasriswal/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
@@ -305,6 +307,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/siyasriswal/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1044-longest-duplicate-substring](https://github.com/siyasriswal/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/siyasriswal/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3364-minimum-positive-sum-subarray](https://github.com/siyasriswal/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
