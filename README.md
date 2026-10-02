@@ -11,6 +11,7 @@
 | [0126-word-ladder-ii](https://github.com/siyasriswal/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/siyasriswal/leetcode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/siyasriswal/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/siyasriswal/leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siyasriswal/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/siyasriswal/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/siyasriswal/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -26,6 +27,7 @@
 | [0126-word-ladder-ii](https://github.com/siyasriswal/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/siyasriswal/leetcode/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/siyasriswal/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/siyasriswal/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/siyasriswal/leetcode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/siyasriswal/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/siyasriswal/leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -380,6 +382,7 @@
 | [0015-3sum](https://github.com/siyasriswal/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/siyasriswal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/siyasriswal/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/siyasriswal/leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/siyasriswal/leetcode/tree/master/0414-third-maximum-number) |
 | [0502-ipo](https://github.com/siyasriswal/leetcode/tree/master/0502-ipo) |
 | [1288-remove-covered-intervals](https://github.com/siyasriswal/leetcode/tree/master/1288-remove-covered-intervals) |
