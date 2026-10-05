@@ -31,6 +31,7 @@
 | [0242-valid-anagram](https://github.com/siyasriswal/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/siyasriswal/leetcode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/siyasriswal/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/siyasriswal/leetcode/tree/master/0402-remove-k-digits) |
 | [0459-repeated-substring-pattern](https://github.com/siyasriswal/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0972-equal-rational-numbers](https://github.com/siyasriswal/leetcode/tree/master/0972-equal-rational-numbers) |
 | [1044-longest-duplicate-substring](https://github.com/siyasriswal/leetcode/tree/master/1044-longest-duplicate-substring) |
@@ -336,6 +337,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0402-remove-k-digits](https://github.com/siyasriswal/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/siyasriswal/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/siyasriswal/leetcode/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/siyasriswal/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -403,6 +405,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siyasriswal/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/siyasriswal/leetcode/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/siyasriswal/leetcode/tree/master/0502-ipo) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/siyasriswal/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/siyasriswal/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -432,6 +435,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/siyasriswal/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/siyasriswal/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/siyasriswal/leetcode/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/siyasriswal/leetcode/tree/master/2104-sum-of-subarray-ranges) |
