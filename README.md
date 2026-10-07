@@ -146,6 +146,7 @@
 | [0182-duplicate-emails](https://github.com/siyasriswal/leetcode/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/siyasriswal/leetcode/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/siyasriswal/leetcode/tree/master/0620-not-boring-movies) |
+| [1757-recyclable-and-low-fat-products](https://github.com/siyasriswal/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
 | ------- |
