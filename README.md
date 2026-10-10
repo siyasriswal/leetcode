@@ -11,6 +11,7 @@
 | [0126-word-ladder-ii](https://github.com/siyasriswal/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/siyasriswal/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/siyasriswal/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/siyasriswal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siyasriswal/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siyasriswal/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/siyasriswal/leetcode/tree/master/0268-missing-number) |
@@ -47,6 +48,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/siyasriswal/leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/siyasriswal/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/siyasriswal/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Depth-First Search
@@ -175,6 +177,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siyasriswal/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/siyasriswal/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siyasriswal/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/siyasriswal/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/siyasriswal/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/siyasriswal/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/siyasriswal/leetcode/tree/master/0217-contains-duplicate) |
@@ -283,6 +286,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/siyasriswal/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/siyasriswal/leetcode/tree/master/0169-majority-element) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/siyasriswal/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -404,6 +408,7 @@
 | ------- |
 | [0015-3sum](https://github.com/siyasriswal/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/siyasriswal/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/siyasriswal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siyasriswal/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siyasriswal/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/siyasriswal/leetcode/tree/master/0268-missing-number) |
@@ -511,4 +516,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/siyasriswal/leetcode/tree/master/0062-unique-paths) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/siyasriswal/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
