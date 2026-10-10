@@ -118,6 +118,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/siyasriswal/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/siyasriswal/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/siyasriswal/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/siyasriswal/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -229,6 +230,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/siyasriswal/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/siyasriswal/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/siyasriswal/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/siyasriswal/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -502,4 +504,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/siyasriswal/leetcode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/siyasriswal/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
