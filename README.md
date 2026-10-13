@@ -201,6 +201,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/siyasriswal/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/siyasriswal/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1020-number-of-enclaves](https://github.com/siyasriswal/leetcode/tree/master/1020-number-of-enclaves) |
+| [1049-last-stone-weight-ii](https://github.com/siyasriswal/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1089-duplicate-zeros](https://github.com/siyasriswal/leetcode/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/siyasriswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/siyasriswal/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -250,6 +251,7 @@
 | [0542-01-matrix](https://github.com/siyasriswal/leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/siyasriswal/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/siyasriswal/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/siyasriswal/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/siyasriswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/siyasriswal/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
@@ -526,8 +528,10 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/siyasriswal/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/siyasriswal/leetcode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/siyasriswal/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/siyasriswal/leetcode/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
