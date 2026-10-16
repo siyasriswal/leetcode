@@ -20,6 +20,7 @@
 | [0523-continuous-subarray-sum](https://github.com/siyasriswal/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/siyasriswal/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/siyasriswal/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/siyasriswal/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siyasriswal/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/siyasriswal/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/siyasriswal/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -226,6 +227,7 @@
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/siyasriswal/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/siyasriswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/siyasriswal/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/siyasriswal/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siyasriswal/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siyasriswal/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3364-minimum-positive-sum-subarray](https://github.com/siyasriswal/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -299,6 +301,7 @@
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/siyasriswal/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/siyasriswal/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/siyasriswal/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/siyasriswal/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
@@ -541,4 +544,5 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/siyasriswal/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/siyasriswal/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
